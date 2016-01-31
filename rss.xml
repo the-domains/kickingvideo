@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Kicking Video]]></title>
         <description><![CDATA[Kicking Video]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kickingvideo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 11:31:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 11:37:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kickingvideo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Complete Guide to Kicking & Punting</p>]]></description>
-            <link>undefinedad8648f7-4fa9-4578-8795-cac2aa22b1d3/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75d442ff-5c99-4ae4-9f56-f39b6b7351ad.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/kickingvideo/ad8648f7-4fa9-4578-8795-cac2aa22b1d3/index.html</link>
             <guid isPermaLink="false">ad8648f7-4fa9-4578-8795-cac2aa22b1d3</guid>
-            <pubDate>Sun, 31 Jan 2016 11:30:59 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 11:36:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
