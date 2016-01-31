@@ -1,6 +1,6 @@
 name: Kicking Video
 favicon: null
-layout_spectrum: 0.17067
+layout_spectrum: 0.14382
 typography_spectrum: 0.24502
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#00ffff'
   brandStrength: 0.3125
   lightness: 0.6625868326518685
-  saturation: 0.4298704657703638
-  rhythmicContrast: 0.9314987587276846
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
